@@ -1,0 +1,21 @@
+{
+  "name": "cotion-theme",
+  "displayName": "Cotion Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cotion Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cotion-theme-dark.json"
+      }
+    ]
+  }
+}
