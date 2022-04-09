@@ -3,12 +3,30 @@
   "displayName": "Cotion Theme",
   "description": "A cozy dark theme inspired by the notion workspace.",
   "version": "0.0.1",
+  "publisher": "pabue",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pabueco/cotion-vscode-theme.git"
+  },
   "engines": {
     "vscode": "^1.65.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "notion",
+    "dark",
+    "cozy",
+    "warm",
+    "eyes",
+    "soft",
+    "purple",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
