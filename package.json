@@ -17,5 +17,8 @@
         "path": "./themes/cotion-theme-dark.json"
       }
     ]
+  },
+  "scripts": {
+    "build": "node src/index.js"
   }
 }
