@@ -1,7 +1,7 @@
 {
   "name": "cotion-theme",
   "displayName": "Cotion Theme",
-  "description": "",
+  "description": "A cozy dark theme inspired by the notion workspace.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.65.0"
@@ -19,6 +19,7 @@
     ]
   },
   "scripts": {
-    "build": "node src/index.js"
+    "build": "node src/index.js",
+    "vscode:prepublish": "yarn build"
   }
 }

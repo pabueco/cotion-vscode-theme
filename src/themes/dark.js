@@ -6,7 +6,7 @@ module.exports = new Theme()
   .setColors({
     tokens: {
       string: "#bde052",
-      comment: "#997f66",
+      comment: "#8d847b",
       variable: "#ffffffde",
       tag: "#e08594",
       attribute: "#a38ec3",
