@@ -20,6 +20,7 @@ module.exports = new Theme()
       constNumber: "#ec9459",
       propertyKey: "#b9b9b9",
       punctuation: "#a8a8a8",
+      htmlTagBrackets: "#a8a8a8",
       keywordOperator: "#a38ec3",
       keywordOperatorLogicalComparison: "#a38ec3",
     },
