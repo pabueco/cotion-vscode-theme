@@ -37,7 +37,9 @@
     ]
   },
   "scripts": {
-    "build": "node src/index.js",
-    "vscode:prepublish": "yarn build"
+    "vscode:prepublish": "yarn build",
+    "theme:build": "node src/index.js",
+    "theme:publish": "vsce publish"
+  },
   }
 }
