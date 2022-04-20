@@ -41,5 +41,7 @@
     "theme:build": "node src/index.js",
     "theme:publish": "vsce publish"
   },
+  "devDependencies": {
+    "vscode-theme-composer": "git+ssh://git@gitlab.com:ex0/vs-code-theme-composer.git"
   }
 }
